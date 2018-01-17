@@ -1,0 +1,26 @@
+Notação c++
+
+Classes : exemplos
+CNome
+CNumCidadao
+
+Variaveis: 
+Exemplos
+inteiro -> iNomeDaVariavel
+char -> cNomeDaVariavel
+floar -> fNomeDaVatiavel
+Etc
+
+metodos: exemplos
+Setters e getters:
+setData()
+getData()
+setDataSensores()
+getDataSensores()
+Outros metodos:
+processingData()
+processingDataSensores ()
+
+Defines: exemplos 
+__NUMERO_SENSORES
+__SIZE_BUFFER_IN
